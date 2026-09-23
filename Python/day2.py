@@ -6,3 +6,8 @@
 #2. variable names can contain letters, numbers, and underscores.
 #3. variable names should not be a reserved keyword in the programming language.
 
+#Data types;
+#1. Integer: Represents whole numbers without decimal points. Example: 5, -10
+#2. Float: Represents numbers with decimal points. Example: 3.14, -2.5
+#3. String: Represents a sequence of characters enclosed in quotes. Example: "Hello, World!"
+#4. Boolean: Represents a logical value that can be either True or False.

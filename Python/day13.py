@@ -113,3 +113,6 @@
 #     total += marks
 #     avg_mark = total / len(students)
 #     print(f"The average marks of the students is: {avg_mark}")
+
+
+
